@@ -1,0 +1,130 @@
+.teg-more-articles-box {
+	-webkit-transform: translate3d(0, 0, 0);
+	transform: translate3d(0, 0, 0);
+	position: fixed;
+	width: 341px;
+	bottom: 60px;
+	right: -384px;
+	background-color: #fff;
+	padding: 16px 20px 0 20px;
+	border-style: solid;
+	border-color: #ededed;
+	border-width: 1px 0 1px 1px;
+	z-index: 9999;
+	visibility: hidden;
+	-webkit-transition: all 500ms cubic-bezier(0.265, 0.365, 0.26, 0.865);
+	-moz-transition: all 500ms cubic-bezier(0.265, 0.365, 0.26, 0.865);
+	-o-transition: all 500ms cubic-bezier(0.265, 0.365, 0.26, 0.865);
+	transition: all 500ms cubic-bezier(0.265, 0.365, 0.26, 0.865);
+	/* custom */
+	/* responsive portrait phone */
+
+	.post-title {
+
+		font-size: 14px;
+		line-height: 20px;
+		margin-bottom: 4px;
+		font-weight: 500;
+
+		a {
+			font-size: 14px;
+			color: #000;
+			&:hover {
+				color: $primary_color;
+			}
+		}
+	}
+	.teg-more-articles-box-title {
+		font-family: 'Open Sans', arial, sans-serif;
+		color: #222;
+		font-size: 17px;
+		font-weight: 600;
+		line-height: 39px;
+		display: inline-block;
+		text-align: center;
+		min-width: 300px;
+		margin-bottom: 18px;
+	}
+
+	figure {
+		img {
+			width: 100px;
+			height: 70px;
+			max-width: 100%;
+		}
+		max-width: 100%;
+		overflow: hidden;
+		width: 100px;
+
+	}
+
+	.teg-content-more-articles-box .teg_module_1,
+	.teg-content-more-articles-box .teg_module_3 {
+		padding-bottom: 20px;
+	}
+
+	.teg-content-more-articles-box .teg_module_4 {
+		margin-bottom: 20px;
+	}
+
+	.teg-content-more-articles-box .teg_module_2 {
+		padding-bottom: 10px;
+	}
+
+	.teg-content-more-articles-box .teg_module_5:last-child,
+	.teg-content-more-articles-box .teg_module_9:last-child {
+		border-bottom: 0;
+		margin-bottom: 0;
+	}
+
+	.teg-content-more-articles-box .teg-module-thumb {
+		height: auto !important;
+	}
+
+	.teg-close-more-articles-box {
+		display: inline-block;
+		cursor: pointer;
+		position: absolute;
+		left: 14px;
+		top: 21px;
+		line-height: 26px;
+		padding: 2px 11px;
+		font-size: 17px;
+	}
+
+	#teg_css_split_separator {
+		visibility: visible;
+	}
+	.single-post-wrapper {
+		padding-bottom: 26px;
+		position: relative;
+		.teg-thumb {
+			position: absolute;
+			top: 0;
+			left: 0;
+		}
+		.post-content-wrapper {
+
+			margin-left: 116px;
+			min-height: 70px;
+		}
+	}
+}
+
+@media (max-width: 767px) {
+	.teg-more-articles-box {
+		display: none !important;
+	}
+
+}
+
+.teg-front-end-display-block {
+	right: 0;
+	visibility: visible;
+}
+
+[class*="teg-icon-"] {
+	line-height: 1;
+	text-align: center;
+	display: inline-block;
+}

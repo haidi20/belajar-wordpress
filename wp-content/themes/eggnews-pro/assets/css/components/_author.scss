@@ -1,0 +1,50 @@
+/*--------------------------------------------------------------
+Author css
+--------------------------------------------------------------*/
+
+.eggnews-author-wrapper {
+	border: 1px solid #e1e1e1;
+	padding: 15px;
+	margin-bottom: 30px;
+	.author-avatar {
+		float: left;
+		width: 17%;
+	}
+	.author-desc-wrapper {
+		float: right;
+		width: 80%;
+		.author-title {
+			color: #333;
+			display: block;
+			font-size: 18px;
+			font-weight: 700;
+			margin-bottom: 10px;
+			text-transform: capitalize;
+		}
+	}
+}
+
+.comments-link, .comments, .post-views, .entry-meta .comments-link, .eggnews_featured_slider .post-meta-wrapper > span, .eggnews_featured_slider .post-meta-wrapper a, .single-post-wrapper .post-meta-wrapper > span, .single-post-wrapper .post-meta-wrapper span > a {
+	font-size: 11px;
+	a {
+		font-size: 11px;
+		font-style:initial;
+	}
+	.total-views {
+		font-size: 11px;
+		font-style:initial;
+	}
+}
+
+.author, time {
+	&.vcard, &.entry-date {
+
+		font-size: 11px;
+		font-style:initial;
+		a {
+			font-size: 11px;
+			font-style:initial;
+		}
+	}
+
+}

@@ -1,0 +1,22 @@
+a:4:{s:8:"template";s:11:"eggnews-pro";s:4:"mods";a:46:{i:0;b:0;s:18:"nav_menu_locations";a:4:{s:12:"primary-menu";i:42;s:6:"footer";i:35;s:7:"primary";i:36;s:10:"top-header";i:42;}s:18:"custom_css_post_id";i:212;s:19:"eggnews_home_option";s:6:"enable";s:21:"eggnews_search_option";s:6:"enable";s:26:"eggnews_random_post_option";s:6:"enable";s:39:"eggnews_category_color_deasign settings";s:7:"#db3297";s:43:"eggnews_category_color_eggnews introduction";s:7:"#256dea";s:39:"eggnews_category_color_general settings";s:7:"#cc045a";s:38:"eggnews_category_color_header settings";s:7:"#b7371d";s:36:"eggnews_category_color_uncategorized";s:7:"#c13215";s:19:"eggnews_theme_color";s:7:"#f25d26";s:16:"header_textcolor";s:5:"blank";s:14:"social_fb_link";s:29:"https://facebook.com/themeegg";s:14:"social_tw_link";s:30:"https://facebook.com/theme_egg";s:14:"social_gp_link";s:45:"https://plus.google.com/111570554612895709048";s:15:"social_lnk_link";s:37:"https://www.linkedin.com/in/themeegg/";s:14:"social_yt_link";s:28:"https://youtu.be/c-OGKbv_K0s";s:28:"eggnews_default_page_sidebar";s:13:"right_sidebar";s:27:"eggnews_header_style_option";s:7:"style-1";s:23:"eggnews_ticker_category";i:2;s:25:"eggnews_author_box_option";s:4:"hide";s:18:"site_layout_option";s:12:"boxed_layout";s:21:"eggnews_section_color";a:6:{s:21:"top_header_background";s:7:"#313541";s:16:"top_header_color";s:7:"#ffffff";s:18:"heading_text_color";s:7:"#1e73be";s:24:"sidebar_title_background";s:7:"#ff702e";s:19:"sidebar_title_color";s:7:"#ffffff";s:18:"sidebar_link_color";s:0:"";}s:37:"eggnews_category_color_slider options";s:7:"#606060";s:34:"eggnews_category_color_eggnews pro";s:7:"#edaa36";s:30:"eggnews_category_color_natural";s:7:"#85489e";s:22:"eggnews_copyright_text";s:154:"Copyright © [the-year] [site-url]. All rights reserved.                                          Theme: EggNews Pro by [teg-url]. Powered by [wp-url]";s:27:"middle_footer_widget_option";s:7:"column3";s:20:"footer_widget_option";s:7:"column4";s:33:"eggnews_rading_indicator_settings";a:3:{s:14:"show_indicator";i:1;s:14:"read_more_text";s:9:"Read more";s:8:"position";s:3:"top";}s:19:"eggnews_header_date";s:6:"enable";s:28:"eggnews_header_social_option";s:6:"enable";s:28:"eggnews_hide_top_header_date";s:1:"0";s:21:"eggnews_ticker_option";s:6:"enable";s:29:"eggnews_category_color_health";s:7:"#245e1d";s:30:"eggnews_category_color_rafting";s:7:"#0ca0d6";s:29:"eggnews_category_color_sports";s:7:"#e835a0";s:33:"eggnews_category_color_technology";s:7:"#1e73be";s:29:"eggnews_category_color_travel";s:7:"#81d742";s:22:"eggnews_ticker_caption";s:5:"Flash";s:25:"site_title_design_options";s:4:"line";s:22:"eggnews_archive_layout";s:7:"columns";s:25:"eggnews_lightbox_settings";a:2:{s:21:"single_featured_ltbox";i:1;s:20:"single_content_ltbox";i:1;}s:29:"eggnews_more_stories_settings";a:1:{s:17:"show_more_stories";i:1;}s:11:"custom_logo";i:677;}s:7:"options";a:2:{s:9:"site_icon";s:1:"0";s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:415:"/*
+You can add your own CSS here.
+
+Click the help icon above to learn more.
+*/
+.eggnews_youtube_playlist .play{
+	height: 64px;
+background-size: 64px 48px;
+	background-repeat:no-repeat;
+	background-position:center center;
+}
+.teg-ta-feeds-widget {
+    word-break: break-word;
+}
+
+.te-mega-post .category-button a{
+	background:transparent !important;
+}
+
+.navigation.pagination {
+    padding: 0 0 30px 30px !important;
+}";}

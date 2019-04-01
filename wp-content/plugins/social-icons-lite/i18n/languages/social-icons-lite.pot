@@ -1,0 +1,186 @@
+# Copyright (C) 2017 ThemeEgg
+# This file is distributed under the GPL3.
+msgid ""
+msgstr ""
+"Project-Id-Version: Social Icons Lite 1.0.0\n"
+"Report-Msgid-Bugs-To: themeeggofficial@gmail.com\n"
+"POT-Creation-Date: 2017-10-28 10:30:31+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"X-Generator: grunt-wp-i18n1.0.0\n"
+
+#: includes/class-social-icons-lite.php:79
+msgid "Twitter URI"
+msgstr ""
+
+#: includes/class-social-icons-lite.php:80
+msgid "Twitter"
+msgstr ""
+
+#: includes/class-social-icons-lite.php:83
+msgid "Facebook URI"
+msgstr ""
+
+#: includes/class-social-icons-lite.php:84
+msgid "Facebook"
+msgstr ""
+
+#: includes/class-social-icons-lite.php:88
+msgid "Google+ URI"
+msgstr ""
+
+#: includes/class-social-icons-lite.php:89
+msgid "Google+"
+msgstr ""
+
+#: includes/class-social-icons-lite.php:92
+msgid "Instagram URI"
+msgstr ""
+
+#: includes/class-social-icons-lite.php:93
+msgid "Instagram"
+msgstr ""
+
+#: includes/class-social-icons-lite.php:96
+msgid "Linkedin URI"
+msgstr ""
+
+#: includes/class-social-icons-lite.php:97
+msgid "Linkedin"
+msgstr ""
+
+#: includes/class-social-icons-lite.php:101
+msgid "Email URI"
+msgstr ""
+
+#: includes/class-social-icons-lite.php:102
+msgid "Email"
+msgstr ""
+
+#: includes/class-social-icons-lite.php:105
+msgid "Phone URI"
+msgstr ""
+
+#: includes/class-social-icons-lite.php:106
+msgid "Phone"
+msgstr ""
+
+#: includes/class-social-icons-lite.php:109
+msgid "Pinterest URI"
+msgstr ""
+
+#: includes/class-social-icons-lite.php:110
+msgid "Pinterest"
+msgstr ""
+
+#: includes/class-social-icons-lite.php:113
+msgid "RSS URI"
+msgstr ""
+
+#: includes/class-social-icons-lite.php:114
+msgid "RSS"
+msgstr ""
+
+#: includes/class-social-icons-lite.php:118
+msgid "Vimeo URI"
+msgstr ""
+
+#: includes/class-social-icons-lite.php:119
+msgid "Vimeo"
+msgstr ""
+
+#: includes/class-social-icons-lite.php:122
+msgid "YouTube URI"
+msgstr ""
+
+#: includes/class-social-icons-lite.php:123
+msgid "YouTube"
+msgstr ""
+
+#: includes/class-social-icons-lite.php:129
+msgid "Displays select social icons."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Social Icons Lite"
+msgstr ""
+
+#: includes/class-social-icons-lite.php:217
+msgid "Title:"
+msgstr ""
+
+#: includes/class-social-icons-lite.php:224
+msgid "Open links in new window?"
+msgstr ""
+
+#: includes/class-social-icons-lite.php:228
+msgid "Icon Size in pixel"
+msgstr ""
+
+#: includes/class-social-icons-lite.php:234
+msgid "Icon Border Radius in pixel:"
+msgstr ""
+
+#: includes/class-social-icons-lite.php:240
+msgid "Border Width in pixel:"
+msgstr ""
+
+#: includes/class-social-icons-lite.php:246
+msgid "Alignment"
+msgstr ""
+
+#: includes/class-social-icons-lite.php:250
+msgid "Align Left"
+msgstr ""
+
+#: includes/class-social-icons-lite.php:251
+msgid "Align Center"
+msgstr ""
+
+#: includes/class-social-icons-lite.php:252
+msgid "Align Right"
+msgstr ""
+
+#: includes/class-social-icons-lite.php:259
+msgid "Icon Color:"
+msgstr ""
+
+#: includes/class-social-icons-lite.php:266
+msgid "Icon Hover Color:"
+msgstr ""
+
+#: includes/class-social-icons-lite.php:274
+msgid "Background Color:"
+msgstr ""
+
+#: includes/class-social-icons-lite.php:282
+msgid "Background Hover Color:"
+msgstr ""
+
+#: includes/class-social-icons-lite.php:290
+msgid "Border Color:"
+msgstr ""
+
+#: includes/class-social-icons-lite.php:298
+msgid "Border Hover Color:"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/social-icons-lite/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Lightweight social icons for WordPress"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "ThemeEgg"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://themeegg.com"
+msgstr ""
