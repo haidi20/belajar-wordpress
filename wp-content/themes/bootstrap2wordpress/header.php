@@ -41,7 +41,13 @@
 		display:none;
 	}
 	.navbar-brand>img{
-		width: 150px;
+		width: 200px;
+	}
+	@media screen and (max-width: 782px) {
+		.navbar-brand>img{
+			width: 110px;
+			height: 30px;
+		}
 	}
 	.navbar-collapse{
 		min-height: 100px;
